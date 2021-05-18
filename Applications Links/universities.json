@@ -1,0 +1,262 @@
+{
+   "university": [
+	
+      {
+         "id":"1",
+         "name": "University of Cape Town",
+         "open_date": "Open",
+         "close_date": "31 August 2021",
+         "prosp": "http://www.students.uct.ac.za/sites/default/files/image_tool/images/434/prospective/ug_prospectus/ug_prospectus.pdf",
+         "app_link": "https://publicaccess.uct.ac.za/psp/public/EMPLOYEE/SA/c/UCT_PUBLIC_MENU.UCT_SS_APPL.GBL?"
+       
+      },
+      
+		
+      {
+         "id":"2",
+         "name": "University of Fort Hare",
+         "open_date": "Open",
+         "close_date": "https://www.ufh.ac.za/apply/",
+         "prosp": "https://www.ufh.ac.za/apply/StudyGuide2021.pdf",
+         "app_link": "https://www.ufh.ac.za/apply/"
+       
+      },
+      
+	
+      {
+         "id":"3",
+         "name": "University of Free State",
+         "open_date": "Open",
+         "close_date": "31 September 2021",
+         "prosp": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/2022/ufs-undergraduate-prospectus-2022.pdf?sfvrsn=b52d6920_2",
+         "app_link": "https://apply.ufs.ac.za/"
+       
+      },
+      
+	
+      {
+         "id":"4",
+         "name": "University of Johannesburg",
+         "open_date": "Open",
+         "close_date": "30 September 2021",
+         "prosp": "https://www.uj.ac.za/studyatUJ/sec/Documents/UJ_Prospectus2020_ONLINE.pdf",
+         "app_link": "https://uj.ac.za/apply"
+       
+      },
+      
+	
+      {
+         "id":"5",
+         "name": "University of KwaZulu Natal",
+         "open_date": "Open",
+         "close_date": "30 September",
+         "prosp": "http://applications.ukzn.ac.za/Libraries/prospectus/Undergrad2021_web.sflb.ashx",
+         "app_link": "https://cao.ac.za"
+       
+      },
+      
+	
+      {
+         "id":"6",
+         "name": "University of Limpopo",
+         "open_date": "Not Open",
+         "close_date": "30 October 2021",
+         "prosp": "https://www.ul.ac.za/application/downloads/2021%20UL%20Prospectus.pdf",
+         "app_link": ""
+       
+      },
+      
+	
+      {
+         "id":"7",
+         "name": "University of Mpumalanga",
+         "open_date": "04 July 2021",
+         "close_date": "30 November 2021",
+         "prosp": "",
+         "app_link": ""
+       
+      },
+      
+	
+      {
+         "id":"8",
+         "name": "North-West University",
+         "open_date": "Open",
+         "close_date": "30 September 2021",
+         "prosp": "http://studies.nwu.ac.za/sites/studies.nwu.ac.za/files/files/undergrad/2020.E.General-Brochure.pdf",
+         "app_link": "http://studies.nwu.ac.za/studies/apply"
+       
+      },
+      
+	
+      {
+         "id":"9",
+         "name": "Nelson Mandela University",
+         "open_date": "Open",
+         "close_date": "30 September 2021",
+         "prosp": "https://www.mandela.ac.za/getmedia/0c00b2cb-3e53-437a-9678-bdc1ae9f83a4/Mandela_Uni-Undergrad-Guide-2021-(DIGITAL)?disposition=attachment",
+         "app_link": "https://applyonline.mandela.ac.za/"
+       
+      },
+      
+	
+      {
+         "id":"10",
+         "name": "Rhodes University",
+         "open_date": "Open",
+         "close_date": "30 September",
+         "prosp": "https://www.ru.ac.za/admissiongateway/",
+         "app_link": "https://ross.ru.ac.za/ugadmissions"
+       
+      },
+      
+	
+      {
+         "id":"11",
+         "name": "University of South Africa(UNISA)",
+         "open_date": "01 September 2021",
+         "close_date": "30 November 2021",
+         "prosp": "https://www.unisa.ac.za/static/myunisa/Content/study%20at%20unisa/docs/Study-at-Unisa-2020.pdf",
+         "app_link": "https://www.unisa.ac.za/sites/corporate/default/Apply-for-admission"
+       
+      },
+      
+	
+      {
+         "id":"12",
+         "name": "Stellenbosch University",
+         "open_date": "Open",
+         "close_date": "30 September 2021",
+         "prosp": "http://www.sun.ac.za/english/maties/Documents/Minimum%20Admission%20Requirement%20Booklet.pdf",
+         "app_link": "https://student.sun.ac.za/signup/"
+       
+      },
+      
+	
+      {
+         "id":"13",
+         "name": "University of Pretoria",
+         "open_date": "Open",
+         "close_date": "30 September 2021",
+         "prosp": "https://www.up.ac.za/students/article/2748887/faculty-brochures-2020/21",
+         "app_link": "https://upnet.up.ac.za/psc/upapply/EMPLOYEE/SA/c/UP_OAP_MENU.UP_OAP_LOGIN.GBL?&"
+       
+      },
+      
+	
+      {
+         "id":"14",
+         "name": "University of the Western Cape",
+         "open_date": "Open",
+         "close_date": "30 September 2021",
+         "prosp": "",
+         "app_link": "https://student.uwc.ac.za/"
+       
+      },
+      
+            {
+         "id":"15",
+         "name": "University of the Witwatersrand",
+         "open_date": "Open",
+         "close_date": "30 September 2021",
+         "prosp": "https://www.wits.ac.za/media/wits-university/study/schools-liason/documents/2022_SLO_School%20Presentation.pdf",
+         "app_link": "http://www.wits.ac.za/applications/"
+      },
+      
+      {
+         "id":"16",
+         "name": "Walter Sisulu University",
+         "open_date": "Unknown",
+         "close_date": "",
+         "prosp": "https://www.wsu.ac.za/images/Documents-WSU/20201-admission/General-Prospectus-2020.pdf",
+         "app_link": "http://itsapp.cle.intra.wsu.ac.za:7771/pls/prodi03/gen.gw1pkg.gw1view"
+       
+      },
+      
+      {
+         "id":"17",
+         "name": "University of Venda",
+         "open_date": "Open",
+         "close_date": "30 November 2021",
+         "prosp": "https://www.univen.ac.za/wp-content/uploads/2020/08/Univen_2020_Undergraduate_Brochure.pdf",
+         "app_link": "https://www.univen.ac.za/students/how-to-apply/#/"
+      },
+      
+	
+      {
+         "id":"18",
+         "name": "Sol Plaatje University",
+         "open_date": "Open",
+         "close_date": "30 November 2021",
+         "prosp": "https://www.spu.ac.za/wp-content/uploads/2020/06/2021-Prospectus-Brochure.pdf",
+         "app_link": "https://ienabler.spu.ac.za/pls/prodi41/w99pkg.mi_login?numtype=S"
+       
+      }
+
+   ],
+   
+  "uni_tech":[
+		{
+         "id":"1",
+         "name": "Cape Peninsula University of Technology",
+         "open_date": "",
+         "close_date": "",
+         "prosp": "",
+         "app_link": ""
+       
+      },
+         		
+		{
+         "id":"2",
+         "name": "Central University of Technology",
+         "open_date": "",
+         "close_date": "",
+         "prosp": "",
+         "app_link": ""
+       
+      },
+         		
+		{
+         "id":"3",
+         "name": "Durban University of Technology",
+         "open_date": "",
+         "close_date": "",
+         "prosp": "",
+         "app_link": ""
+       
+      },
+         		
+		{
+         "id":"4",
+         "name": "Tswane University of Technology",
+         "open_date": "",
+         "close_date": "",
+         "prosp": "",
+         "app_link": ""
+       
+      },
+         		
+		{
+         "id":"5",
+         "name": "Vaal University of Technology",
+         "open_date": "",
+         "close_date": "",
+         "prosp": "",
+         "app_link": ""
+       
+      },
+         		
+		{
+         "id":"6",
+         "name": "Mangosuthu University of Technology",
+         "open_date": "",
+         "close_date": "",
+         "prosp": "",
+         "app_link": ""
+       
+      }  		
+		   
+   ]
+   
+   
+}
