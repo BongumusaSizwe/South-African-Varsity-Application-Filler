@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+    <title>Document</title>
+</head>
+<body>
+    <div id="uniData">
+    </div>
+
+    <table class="table table-hover">
+        <caption>List of University Applications and their Closing Dates</caption>
+        <thead class="thead-dark">
+            <tr>
+              <th scope="col">University</th>
+              <th scope="col">Opening Date</th>
+              <th scope="col">Closing Date</th>
+              <th scope="col">Prospectus</th>
+              <th scope="col">Application Link</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            <tr>
+              <th scope="row" id="uniName"></th>
+              <td id="openDate">Open</td>
+              <td id ="closeDate">31 August 2021</td>
+              <td><a href="http://www.students.uct.ac.za/sites/default/files/image_tool/images/434/prospective/ug_prospectus/ug_prospectus.pdf">UCT Prospectus</a></td>
+              <td><a href="https://publicaccess.uct.ac.za/psp/public/EMPLOYEE/SA/c/UCT_PUBLIC_MENU.UCT_SS_APPL.GBL?">Apply</a></td>
+            </tr>
+        </tbody>
+
+    <script>
+        fetch('universities.json')
+            .then(function (response) {
+                return response.json();
+            })
+            .then(function (data) {
+                appendData(data);
+            })
+            .catch(function (err) {
+                console.log('error: ' + err);
+            });
+
+            function appendData(data) {
+                let traditionalTable ='
+                    <table class="table table-hover">
+                        <caption>List of University Applications and their Closing Dates</caption>
+                        <thead class="thead-dark">
+                        <tr>
+                        <th scope="col">University</th>
+                        <th scope="col">Opening Date</th>
+                        <th scope="col">Closing Date</th>
+                        <th scope="col">Prospectus</th>
+                        <th scope="col">Application Link</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                        <th scope="row" id="uniName">${filterText}</th>
+                        <td id="openDate">${filterText}</td>
+                        <td id ="closeDate">{filterText}</td>
+                        <td><a href="http://www.students.uct.ac.za/sites/default/files/image_tool/images/434/prospective/ug_prospectus/ug_prospectus.pdf">UCT Prospectus</a></td>
+                        <td><a href="https://publicaccess.uct.ac.za/psp/public/EMPLOYEE/SA/c/UCT_PUBLIC_MENU.UCT_SS_APPL.GBL?">Apply</a></td>
+                        </tr>
+                    </tbody>
+                ';
+
+
+
+            
+            var mainContainer = document.getElementById("uniData");
+            var traditional = data.university
+            for (let i = 0; i < traditional.length; i++) {
+
+                document.getElementById("uniName").innerHTML = traditional[i].name;
+                document.getElementById("openDate").innerHTML = traditional[i].open_date;
+                document.getElementById("closeDate").innerHTML = traditional[i].close_date;
+                document.getElementById("openDate").innerHTML = traditional[i].open_date;
+            }
+        }
+    </script>
+</body>
+</html>

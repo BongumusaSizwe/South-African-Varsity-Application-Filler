@@ -104,7 +104,7 @@
          "id":"10",
          "name": "Rhodes University",
          "open_date": "Open",
-         "close_date": "30 September",
+         "close_date": "30 September 2021",
          "prosp": "https://www.ru.ac.za/admissiongateway/",
          "app_link": "https://ross.ru.ac.za/ugadmissions"
        
@@ -114,7 +114,7 @@
       {
          "id":"11",
          "name": "University of South Africa(UNISA)",
-         "open_date": "01 September 2021",
+         "open_date": "08 August 2021",
          "close_date": "30 November 2021",
          "prosp": "https://www.unisa.ac.za/static/myunisa/Content/study%20at%20unisa/docs/Study-at-Unisa-2020.pdf",
          "app_link": "https://www.unisa.ac.za/sites/corporate/default/Apply-for-admission"
