@@ -1,0 +1,176 @@
+1633875629176	geckodriver	INFO	Listening on 127.0.0.1:58351
+1633875629181	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile5ZvEKZ"
+1633875630368	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile5ZvEKZ/search.json.mozlz4", (void 0)))
+1633875632180	Marionette	INFO	Listening on port 46441
+1633875632226	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1633875651080	Marionette	INFO	Stopped listening on port 46441
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1633875963434	geckodriver	INFO	Listening on 127.0.0.1:47015
+1633875964444	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilehEUuci"
+1633875965422	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilehEUuci/search.json.mozlz4", (void 0)))
+1633875967018	Marionette	INFO	Listening on port 45435
+1633875967086	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.unisa.ac.za/portal/jslib/vuit/vuit.js, line 3: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.unisa.ac.za/portal/jslib/vuit/vuit.js, line 3: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.unisa.ac.za/portal/jslib/vuit/vuit.js, line 3: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.unisa.ac.za/portal/jslib/vuit/vuit.js, line 3: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.unisa.ac.za/portal/jslib/vuit/vuit.js, line 3: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.unisa.ac.za/portal/jslib/vuit/vuit.js, line 3: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.unisa.ac.za/portal/jslib/vuit/vuit.js, line 3: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.unisa.ac.za/portal/jslib/vuit/vuit.js, line 3: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.unisa.ac.za/portal/jslib/vuit/vuit.js, line 3: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.unisa.ac.za/portal/jslib/vuit/vuit.js, line 3: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.unisa.ac.za/portal/jslib/vuit/vuit.js, line 3: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.unisa.ac.za/portal/jslib/vuit/vuit.js, line 3: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1633876036427	Marionette	INFO	Stopped listening on port 45435
+1633876068263	geckodriver	INFO	Listening on 127.0.0.1:38395
+1633876069274	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile4vnuZk"
+1633876070208	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile4vnuZk/search.json.mozlz4", (void 0)))
+1633876071701	Marionette	INFO	Listening on port 44157
+1633876071801	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.unisa.ac.za/portal/jslib/vuit/vuit.js, line 3: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.unisa.ac.za/portal/jslib/vuit/vuit.js, line 3: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.unisa.ac.za/portal/jslib/vuit/vuit.js, line 3: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.unisa.ac.za/portal/jslib/vuit/vuit.js, line 3: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1633876136081	Marionette	INFO	Stopped listening on port 44157
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633876172059	geckodriver	INFO	Listening on 127.0.0.1:58451
+1633876172063	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilem78dSj"
+1633876172945	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilem78dSj/search.json.mozlz4", (void 0)))
+1633876174535	Marionette	INFO	Listening on port 39479
+1633876174596	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.unisa.ac.za/portal/jslib/vuit/vuit.js, line 3: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.unisa.ac.za/portal/jslib/vuit/vuit.js, line 3: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.unisa.ac.za/portal/jslib/vuit/vuit.js, line 3: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.unisa.ac.za/portal/jslib/vuit/vuit.js, line 3: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+console.error: "Tried to send a 'target-destroyed-form' event on an already destroyed actor 'watcher'"
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1633876223370	Marionette	INFO	Stopped listening on port 39479
+1633876396945	geckodriver	INFO	Listening on 127.0.0.1:33529
+1633876397957	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileb0mDXu"
+1633876398866	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileb0mDXu/search.json.mozlz4", (void 0)))
+1633876400411	Marionette	INFO	Listening on port 45929
+1633876400484	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.unisa.ac.za/portal/jslib/vuit/vuit.js, line 3: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.unisa.ac.za/portal/jslib/vuit/vuit.js, line 3: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.unisa.ac.za/portal/jslib/vuit/vuit.js, line 3: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.unisa.ac.za/portal/jslib/vuit/vuit.js, line 3: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/m_71LU70zG8G78x6hYSYf2B3ELc7BGRgbsZokPhgXAY.js line 1 > eval line 3672 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1633876889061	geckodriver	INFO	Listening on 127.0.0.1:52425
+1633876890061	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilesCTmZm"
+1633876891119	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilesCTmZm/search.json.mozlz4", (void 0)))
+1633876893192	Marionette	INFO	Listening on port 43619
+1633876893292	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1633876940535	geckodriver	INFO	Listening on 127.0.0.1:55283
+1633876941531	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile3ehm0D"
+1633876943006	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile3ehm0D/search.json.mozlz4", (void 0)))
+1633876945074	Marionette	INFO	Listening on port 42015
+1633876945185	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://w2.unisa.ac.za/www.unisa.ac.za/sites/corporate/default.html, line 89: ReferenceError: vQuery is not defined
+JavaScript error: https://w2.unisa.ac.za/www.unisa.ac.za/portal/jslib/vuit/vuit.js, line 24: Error: Could not load 'vuit.nls.vuit_en-us'; last tried './nls/vuit_en-us.js'
+JavaScript error: https://w2.unisa.ac.za/www.unisa.ac.za/portal/jslib/vuit/vuit.js, line 24: Error: Could not load 'vijit.nls.vca-basic_en-us'; last tried '../vijit/nls/vca-basic_en-us.js'
+JavaScript error: https://w2.unisa.ac.za/www.unisa.ac.za/sites/corporate/default/Apply-for-admission.html, line 73: ReferenceError: vQuery is not defined
+JavaScript error: https://w2.unisa.ac.za/www.unisa.ac.za/portal/jslib/vuit/vuit.js, line 24: Error: Could not load 'vuit.nls.vuit_en-us'; last tried './nls/vuit_en-us.js'
+JavaScript error: https://w2.unisa.ac.za/www.unisa.ac.za/portal/jslib/vuit/vuit.js, line 24: Error: Could not load 'vijit.nls.vca-basic_en-us'; last tried '../vijit/nls/vca-basic_en-us.js'
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1633876991422	Marionette	INFO	Stopped listening on port 42015
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633877001095	geckodriver	INFO	Listening on 127.0.0.1:58447
+1633877002095	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofiledhHZni"
+1633877003239	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiledhHZni/search.json.mozlz4", (void 0)))
+1633877005428	Marionette	INFO	Listening on port 44993
+1633877005532	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript warning: https://www.unisa.ac.za/portal/jslib/vuit/vuit.js, line 3: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.unisa.ac.za/portal/jslib/vuit/vuit.js, line 3: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.unisa.ac.za/portal/jslib/vuit/vuit.js, line 3: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.unisa.ac.za/portal/jslib/vuit/vuit.js, line 3: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1633877048247	geckodriver	INFO	Listening on 127.0.0.1:39463
+1633877049246	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileHxwfM6"
+1633877050774	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileHxwfM6/search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+Exiting due to channel error.
+Exiting due to channel error.
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1633877204854	Marionette	INFO	Stopped listening on port 44993
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1633877212260	Marionette	INFO	Stopped listening on port 45929
+1633877218383	geckodriver	INFO	Listening on 127.0.0.1:51949
+1633877219382	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileiWcnzo"
+1633877220524	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileiWcnzo/search.json.mozlz4", (void 0)))
+1633877222345	Marionette	INFO	Listening on port 34949
+1633877222424	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.unisa.ac.za/portal/jslib/vuit/vuit.js, line 3: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.unisa.ac.za/portal/jslib/vuit/vuit.js, line 3: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.unisa.ac.za/portal/jslib/vuit/vuit.js, line 3: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.unisa.ac.za/portal/jslib/vuit/vuit.js, line 3: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1633877324596	Marionette	INFO	Stopped listening on port 34949
+1633877472503	geckodriver	INFO	Listening on 127.0.0.1:45339
+1633877472507	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileG1Sihx"
+1633877473433	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileG1Sihx/search.json.mozlz4", (void 0)))
+1633877475154	Marionette	INFO	Listening on port 45815
+1633877475247	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.unisa.ac.za/portal/jslib/vuit/vuit.js, line 3: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.unisa.ac.za/portal/jslib/vuit/vuit.js, line 3: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.unisa.ac.za/portal/jslib/vuit/vuit.js, line 3: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.unisa.ac.za/portal/jslib/vuit/vuit.js, line 3: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1633877610440	Marionette	INFO	Stopped listening on port 45815
+1633877811813	geckodriver	INFO	Listening on 127.0.0.1:34839
+1633877812824	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileCiyaMq"
+1633877813809	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileCiyaMq/search.json.mozlz4", (void 0)))
+1633877815564	Marionette	INFO	Listening on port 41589
+1633877815662	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Marionette threw an error: TypeError: this.curBrowser.contentBrowser is null
+GeckoDriver.prototype.navigateTo@chrome://remote/content/marionette/driver.js:806:3
+
+JavaScript error: https://www.unisa.ac.za/sites/scripts/vquery/vquery.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1633877946867	Marionette	INFO	Stopped listening on port 41589
+1633877951389	geckodriver	INFO	Listening on 127.0.0.1:60043
+1633877952394	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile7RUSw9"
+1633877953296	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile7RUSw9/search.json.mozlz4", (void 0)))
+1633877954825	Marionette	INFO	Listening on port 44361
+1633877954918	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Marionette threw an error: TypeError: this.curBrowser.contentBrowser is null
+GeckoDriver.prototype.navigateTo@chrome://remote/content/marionette/driver.js:806:3
+
+JavaScript error: https://www.unisa.ac.za/sites/scripts/vquery/vquery.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1633878013375	Marionette	INFO	Stopped listening on port 44361
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
