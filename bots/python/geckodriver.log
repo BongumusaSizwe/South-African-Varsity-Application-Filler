@@ -174,3 +174,83 @@ JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILU
 
 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+1633887763626	geckodriver	INFO	Listening on 127.0.0.1:34843
+1633887764626	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileUiFpE5"
+1633887765600	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileUiFpE5/search.json.mozlz4", (void 0)))
+1633887767245	Marionette	INFO	Listening on port 46709
+1633887767356	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.unisa.ac.za/portal/jslib/vuit/vuit.js, line 3: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.unisa.ac.za/portal/jslib/vuit/vuit.js, line 3: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.unisa.ac.za/portal/jslib/vuit/vuit.js, line 3: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.unisa.ac.za/portal/jslib/vuit/vuit.js, line 3: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1633887902506	Marionette	INFO	Stopped listening on port 46709
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633891120839	geckodriver	INFO	Listening on 127.0.0.1:45591
+1633891121837	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileXtsNvN"
+1633891122760	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileXtsNvN/search.json.mozlz4", (void 0)))
+1633891124458	Marionette	INFO	Listening on port 32949
+1633891124561	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: https://www.unisa.ac.za/portal/jslib/vuit/vuit.js, line 24: Error: Could not load 'vuit.nls.vuit_en-us'; last tried './nls/vuit_en-us.js'
+JavaScript error: https://www.unisa.ac.za/portal/jslib/vquery/vquery.js, line 394: NS_ERROR_NOT_INITIALIZED: 
+1633898949540	Marionette	INFO	Stopped listening on port 32949
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633899264798	geckodriver	INFO	Listening on 127.0.0.1:43661
+1633899265808	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileAZrMqk"
+1633899266734	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileAZrMqk/search.json.mozlz4", (void 0)))
+1633899268349	Marionette	INFO	Listening on port 37299
+1633899268433	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.unisa.ac.za/portal/jslib/vuit/vuit.js, line 3: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.unisa.ac.za/portal/jslib/vuit/vuit.js, line 3: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.unisa.ac.za/portal/jslib/vuit/vuit.js, line 3: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.unisa.ac.za/portal/jslib/vuit/vuit.js, line 3: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1633899485592	geckodriver	INFO	Listening on 127.0.0.1:37329
+1633899486601	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileb6JTeg"
+1633899487503	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileb6JTeg/search.json.mozlz4", (void 0)))
+1633899489323	Marionette	INFO	Listening on port 33949
+1633899490552	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1633899574979	Marionette	INFO	Stopped listening on port 37299
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: https://w2.unisa.ac.za/www.unisa.ac.za/sites/corporate/default.html, line 89: ReferenceError: vQuery is not defined
+JavaScript error: https://w2.unisa.ac.za/www.unisa.ac.za/portal/jslib/vuit/vuit.js, line 24: Error: Could not load 'vuit.nls.vuit_en-us'; last tried './nls/vuit_en-us.js'
+JavaScript error: https://w2.unisa.ac.za/www.unisa.ac.za/portal/jslib/vuit/vuit.js, line 24: Error: Could not load 'vijit.nls.vca-basic_en-us'; last tried '../vijit/nls/vca-basic_en-us.js'
+JavaScript error: https://w2.unisa.ac.za/www.unisa.ac.za/sites/corporate/default/Apply-for-admission.html, line 73: ReferenceError: vQuery is not defined
+JavaScript error: https://w2.unisa.ac.za/www.unisa.ac.za/portal/jslib/vuit/vuit.js, line 24: Error: Could not load 'vuit.nls.vuit_en-us'; last tried './nls/vuit_en-us.js'
+JavaScript error: https://w2.unisa.ac.za/www.unisa.ac.za/portal/jslib/vuit/vuit.js, line 24: Error: Could not load 'vijit.nls.vca-basic_en-us'; last tried '../vijit/nls/vca-basic_en-us.js'
+JavaScript error: https://w2.unisa.ac.za/www.unisa.ac.za/sites/corporate/default/Apply-for-admission/Honours-degrees-%26-postgraduate-diplomas.html, line 73: ReferenceError: vQuery is not defined
+JavaScript error: https://w2.unisa.ac.za/www.unisa.ac.za/portal/jslib/vuit/vuit.js, line 24: Error: Could not load 'vuit.nls.vuit_en-us'; last tried './nls/vuit_en-us.js'
+JavaScript error: https://w2.unisa.ac.za/www.unisa.ac.za/portal/jslib/vuit/vuit.js, line 24: Error: Could not load 'vijit.nls.vca-basic_en-us'; last tried '../vijit/nls/vca-basic_en-us.js'
+JavaScript error: https://w2.unisa.ac.za/www.unisa.ac.za/sites/corporate/default/Apply-for-admission/Honours-degrees-%26-postgraduate-diplomas/Apply-for-admission.html, line 73: ReferenceError: vQuery is not defined
+JavaScript error: https://w2.unisa.ac.za/www.unisa.ac.za/portal/jslib/vuit/vuit.js, line 24: Error: Could not load 'vuit.nls.vuit_en-us'; last tried './nls/vuit_en-us.js'
+JavaScript error: https://w2.unisa.ac.za/www.unisa.ac.za/portal/jslib/vuit/vuit.js, line 24: Error: Could not load 'vijit.nls.vca-basic_en-us'; last tried '../vijit/nls/vca-basic_en-us.js'
+JavaScript error: https://w2.unisa.ac.za/www.unisa.ac.za/sites/corporate/default/Apply-for-admission/Apply-for-admission-to-study_-application-tool.html, line 73: ReferenceError: vQuery is not defined
+JavaScript error: https://w2.unisa.ac.za/www.unisa.ac.za/portal/jslib/vuit/vuit.js, line 24: Error: Could not load 'vuit.nls.vuit_en-us'; last tried './nls/vuit_en-us.js'
+JavaScript error: https://w2.unisa.ac.za/www.unisa.ac.za/portal/jslib/vuit/vuit.js, line 24: Error: Could not load 'vijit.nls.vca-basic_en-us'; last tried '../vijit/nls/vca-basic_en-us.js'
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1633899930465	geckodriver	INFO	Listening on 127.0.0.1:52763
+1633899930471	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileoAyorR"
+1633899931404	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileoAyorR/search.json.mozlz4", (void 0)))
+1633899933004	Marionette	INFO	Listening on port 36345
+1633899933099	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.unisa.ac.za/portal/jslib/vuit/vuit.js, line 3: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.unisa.ac.za/portal/jslib/vuit/vuit.js, line 3: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.unisa.ac.za/portal/jslib/vuit/vuit.js, line 3: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.unisa.ac.za/portal/jslib/vuit/vuit.js, line 3: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.child4/domwalker24, type cancelPick failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:289:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\ncancelPick@resource://devtools/client/fronts/walker.js:506:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:55:25\n_onInspectorFrontDestroyed@resource://devtools/client/inspector/node-picker.js:113:18\nstop@resource://devtools/client/inspector/node-picker.js:176:18\n_destroyToolbox@resource://devtools/client/framework/toolbox.js:3761:24\ndestroy@resource://devtools/client/framework/toolbox.js:3699:10\ncloseToolbox@resource://devtools/client/framework/toolbox.js:3675:16\nonClick@resource://devtools/client/framework/components/ToolboxToolbar.js:456:26\ninvokeGuardedCallbackImpl@resource://devtools/client/shared/vendor/react-dom.js:74:10\ninvokeGuardedCallback@resource://devtools/client/shared/vendor/react-dom.js:111:29\ninvokeGuardedCallbackAndCatchFirstError@resource://devtools/client/shared/vendor/react-dom.js:125:25\nexecuteDispatch@resource://devtools/client/shared/vendor/react-dom.js:346:42\nexecuteDispatchesInOrder@resource://devtools/client/shared/vendor/react-dom.js:365:20\nexecuteDispatchesAndRelease@resource://devtools/client/shared/vendor/react-dom.js:462:29\nexecuteDispatchesAndReleaseTopLevel@resource://devtools/client/shared/vendor/react-dom.js:470:10\nforEachAccumulated@resource://devtools/client/shared/vendor/react-dom.js:444:8\nrunEventsInBatch@resource://devtools/client/shared/vendor/react-dom.js:598:21\nrunExtractedEventsInBatch@resource://devtools/client/shared/vendor/react-dom.js:606:19\nhandleTopLevel@resource://devtools/client/shared/vendor/react-dom.js:4272:30\nbatchedUpdates$1@resource://devtools/client/shared/vendor/react-dom.js:15752:12\nbatchedUpdates@resource://devtools/client/shared/vendor/react-dom.js:1882:12\ndispatchEvent@resource://devtools/client/shared/vendor/react-dom.js:4351:19\ninteractiveUpdates$1/<@resource://devtools/client/shared/vendor/react-dom.js:15803:14\nunstable_runWithPriority@resource://devtools/client/shared/vendor/react.js:617:12\ninteractiveUpdates$1@resource://devtools/client/shared/vendor/react-dom.js:15802:12\ninteractiveUpdates@resource://devtools/client/shared/vendor/react-dom.js:1901:10\ndispatchInteractiveEvent@resource://devtools/client/shared/vendor/react-dom.js:4328:21\n", "resource://devtools/shared/protocol/Front.js", 103))
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
