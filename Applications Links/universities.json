@@ -1,184 +1,184 @@
 [
  {
-   "University": "University of Cape Town",
-   "Opening Date": "Closed",
-   "Closing Date": "31 August 2021",
-   "Prospectus": "UCT Prospectus",
-   "Application Link": "Apply"
+   "university": "University of Cape Town",
+   "open_date": "2022-03-01",
+   "close_date": "2022-07-31",
+   "prospectus": "http://www.students.uct.ac.za/sites/default/files/image_tool/images/434/prospective/ug_prospectus/ug_prospectus.pdf",
+   "application_link": "Apply"
  },
  {
-   "University": "University of Fort Hare",
-   "Opening Date": "Closed",
-   "Closing Date": "30 September 2021",
-   "Prospectus": "FortHare Prospectus",
-   "Application Link": "Apply"
+   "university": "University of Fort Hare",
+   "open_date": "Closed",
+   "close_date": "30 September 2022",
+   "prospectus": "FortHare Prospectus",
+   "application_link": "Apply"
  },
  {
-   "University": "University of the Free State",
-   "Opening Date": "Closed",
-   "Closing Date": "30 September 2021",
-   "Prospectus": "UFS Prospectus",
-   "Application Link": "Apply"
+   "university": "University of the Free State",
+   "open_date": "Closed",
+   "close_date": "30 September 2022",
+   "prospectus": "UFS Prospectus",
+   "application_link": "Apply"
  },
  {
-   "University": "University of Johannesburg",
-   "Opening Date": "Open",
-   "Closing Date": "31 October 2021",
-   "Prospectus": "UJ Prospectus",
-   "Application Link": "Apply"
+   "university": "University of Johannesburg",
+   "open_date": "Open",
+   "close_date": "31 October 2022",
+   "prospectus": "UJ Prospectus",
+   "application_link": "Apply"
  },
  {
-   "University": "University of KwaZulu Natal",
-   "Opening Date": "Closed",
-   "Closing Date": "30 September 2021",
-   "Prospectus": "UKZN Prospectus",
-   "Application Link": "Apply"
+   "university": "University of KwaZulu Natal",
+   "open_date": "Closed",
+   "close_date": "30 September 2022",
+   "prospectus": "UKZN Prospectus",
+   "application_link": "Apply"
  },
  {
-   "University": "University of Limpopo",
-   "Opening Date": "Open",
-   "Closing Date": "30 November 2021",
-   "Prospectus": "UL Prospectus",
-   "Application Link": "Apply"
+   "university": "University of Limpopo",
+   "open_date": "Open",
+   "close_date": "30 November 2022",
+   "prospectus": "UL Prospectus",
+   "application_link": "Apply"
  },
  {
-   "University": "University of Mpumalanga",
-   "Opening Date": "Open",
-   "Closing Date": "30 November 2021",
-   "Prospectus": "UMP Prospectus",
-   "Application Link": "Apply"
+   "university": "University of Mpumalanga",
+   "open_date": "Open",
+   "close_date": "30 November 2022",
+   "prospectus": "UMP Prospectus",
+   "application_link": "Apply"
  },
  {
-   "University": "North-West University",
-   "Opening Date": "Open",
-   "Closing Date": "30 September 2021",
-   "Prospectus": "NWU Prospectus",
-   "Application Link": "Apply"
+   "university": "North-West University",
+   "open_date": "Open",
+   "close_date": "30 September 2022",
+   "prospectus": "NWU Prospectus",
+   "application_link": "Apply"
  },
  {
-   "University": "Nelson Mandela University",
-   "Opening Date": "Closed",
-   "Closing Date": "05 August 2021",
-   "Prospectus": "Mandela Prospectus",
-   "Application Link": "Apply"
+   "university": "Nelson Mandela University",
+   "open_date": "Closed",
+   "close_date": "05 August 2022",
+   "prospectus": "Mandela Prospectus",
+   "application_link": "Apply"
  },
  {
-   "University": "Rhodes University",
-   "Opening Date": "Closed",
-   "Closing Date": "30 September 2021",
-   "Prospectus": "RU Prospectus",
-   "Application Link": "Apply"
+   "university": "Rhodes University",
+   "open_date": "Closed",
+   "close_date": "30 September 2022",
+   "prospectus": "RU Prospectus",
+   "application_link": "Apply"
  },
  {
-   "University": "University of South Africa(UNISA)",
-   "Opening Date": "Open",
-   "Closing Date": "15 October 2021",
-   "Prospectus": "UNISA Prospectus",
-   "Application Link": "Apply"
+   "university": "University of South Africa(UNISA)",
+   "open_date": "Open",
+   "close_date": "15 October 2022",
+   "prospectus": "UNISA Prospectus",
+   "application_link": "Apply"
  },
  {
-   "University": "Stellenbosch University",
-   "Opening Date": "Closed",
-   "Closing Date": "30 September 2021",
-   "Prospectus": "Prospectus",
-   "Application Link": "Apply"
+   "university": "Stellenbosch University",
+   "open_date": "Closed",
+   "close_date": "30 September 2022",
+   "prospectus": "prospectus",
+   "application_link": "Apply"
  },
  {
-   "University": "University of Pretoria",
-   "Opening Date": "Closed",
-   "Closing Date": "30 September 2021",
-   "Prospectus": "Prospectus",
-   "Application Link": "Apply"
+   "university": "University of Pretoria",
+   "open_date": "Closed",
+   "close_date": "30 September 2022",
+   "prospectus": "prospectus",
+   "application_link": "Apply"
  },
  {
-   "University": "University of the Western Cape",
-   "Opening Date": "Open",
-   "Closing Date": "30 September 2021",
-   "Prospectus": "UWC Prospectus",
-   "Application Link": "Apply"
+   "university": "University of the Western Cape",
+   "open_date": "Open",
+   "close_date": "30 September 2022",
+   "prospectus": "UWC Prospectus",
+   "application_link": "Apply"
  },
  {
-   "University": "University of the Witwatersrand",
-   "Opening Date": "Closed",
-   "Closing Date": "30 September 2021",
-   "Prospectus": "Wits Prospectus",
-   "Application Link": "Apply"
+   "university": "University of the Witwatersrand",
+   "open_date": "Closed",
+   "close_date": "30 September 2022",
+   "prospectus": "Wits Prospectus",
+   "application_link": "Apply"
  },
  {
-   "University": "Walter Sisulu University",
-   "Opening Date": "Closed",
-   "Closing Date": "30 September 2021",
-   "Prospectus": "WSU Prospectus",
-   "Application Link": "Apply"
+   "university": "Walter Sisulu University",
+   "open_date": "Closed",
+   "close_date": "30 September 2022",
+   "prospectus": "WSU Prospectus",
+   "application_link": "Apply"
  },
  {
-   "University": "University of Venda",
-   "Opening Date": "Open",
-   "Closing Date": "30 November 2021",
-   "Prospectus": "UNIVEN Prospectus",
-   "Application Link": "Apply"
+   "university": "University of Venda",
+   "open_date": "Open",
+   "close_date": "30 November 2022",
+   "prospectus": "UNIVEN Prospectus",
+   "application_link": "Apply"
  },
  {
-   "University": "University of Zululand",
-   "Opening Date": "Closed",
-   "Closing Date": "30 September 2021",
-   "Prospectus": "UNIZULU Prospectus",
-   "Application Link": "Apply"
+   "university": "University of Zululand",
+   "open_date": "Closed",
+   "close_date": "30 September 2022",
+   "prospectus": "UNIZULU Prospectus",
+   "application_link": "Apply"
  },
  {
-   "University": "Sol Plaatje University",
-   "Opening Date": "Open",
-   "Closing Date": "30 November 2021",
-   "Prospectus": "SPU Prospectus",
-   "Application Link": "Apply"
+   "university": "Sol Plaatje University",
+   "open_date": "Open",
+   "close_date": "30 November 2022",
+   "prospectus": "SPU Prospectus",
+   "application_link": "Apply"
  },
  {
-   "University": "University of Technology",
-   "Opening Date": "Opening Date",
-   "Closing Date": "Closing Date",
-   "Prospectus": "Prospectus",
-   "Application Link": "Application Link"
+   "university": "University of Technology",
+   "open_date": "open_date",
+   "close_date": "close_date",
+   "prospectus": "prospectus",
+   "application_link": "application_link"
  },
  {
-   "University": "Cape Peninsula University of Technology",
-   "Opening Date": "Closed",
-   "Closing Date": "30 September 2021",
-   "Prospectus": "CPUT Prospectus",
-   "Application Link": "Apply"
+   "university": "Cape Peninsula University of Technology",
+   "open_date": "Closed",
+   "close_date": "30 September 2022",
+   "prospectus": "CPUT Prospectus",
+   "application_link": "Apply"
  },
  {
-   "University": "Central University of Technology",
-   "Opening Date": "Open",
-   "Closing Date": "31 October 2021",
-   "Prospectus": "CUT Prospectus",
-   "Application Link": "Apply"
+   "university": "Central University of Technology",
+   "open_date": "Open",
+   "close_date": "31 October 2022",
+   "prospectus": "CUT Prospectus",
+   "application_link": "Apply"
  },
  {
-   "University": "Durban University of Technology",
-   "Opening Date": "Open",
-   "Closing Date": "30 November 2021",
-   "Prospectus": "DUT Prospectus",
-   "Application Link": "Apply"
+   "university": "Durban University of Technology",
+   "open_date": "Open",
+   "close_date": "30 November 2022",
+   "prospectus": "DUT Prospectus",
+   "application_link": "Apply"
  },
  {
-   "University": "Tswane University of Technology",
-   "Opening Date": "Closed",
-   "Closing Date": "30 September 2021",
-   "Prospectus": "TUT Prospectus",
-   "Application Link": "Apply"
+   "university": "Tswane University of Technology",
+   "open_date": "Closed",
+   "close_date": "30 September 2022",
+   "prospectus": "TUT Prospectus",
+   "application_link": "Apply"
  },
  {
-   "University": "Vaal University of Technology",
-   "Opening Date": "Open",
-   "Closing Date": "31 October 2021",
-   "Prospectus": "VUT Prospectus",
-   "Application Link": "Apply"
+   "university": "Vaal University of Technology",
+   "open_date": "Open",
+   "close_date": "31 October 2022",
+   "prospectus": "VUT Prospectus",
+   "application_link": "Apply"
  },
  {
-   "University": "Mangosuthu University of Technology",
-   "Opening Date": "Closed",
-   "Closing Date": "30 September 2021",
-   "Prospectus": "MUT Prospectus",
-   "Application Link": "Apply"
+   "university": "Mangosuthu University of Technology",
+   "open_date": "Closed",
+   "close_date": "30 September 2022",
+   "prospectus": "MUT Prospectus",
+   "application_link": "Apply"
  }
 ]
